@@ -1,0 +1,10 @@
+tạo một thủ tục để thực hiện các yêu cầu sau đây:
+1. pro_salary
+ - Nếu nhân viên làm trên >=9 thưởng lương 12tr
+ - Nếu nhân viên làm trên >=6              8tr
+ - Nếu nhân viên làm trên >=4              6tr
+ -                      còn lại            5tr
+2. Pro_search_name(Firstname)
+ - Tìm kiếm nhân viên theo Firstname
+ -> Sau đó cho hiển thị toàn bộ thông tin của nhân viên đó
+ trong đó nối  FullName: FirstName + lastName
